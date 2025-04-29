@@ -33,8 +33,8 @@
 <h2>Como Executar</h2>
 <ol>
 <li>Clone este repositório:
-<pre><code>git clone &lt;URL_DO_REPOSITORIO&gt;
-cd cursomaisprati</code></pre>
+<pre><code>git clone https://github.com/sucloudflare/exercicio01-maisparati;
+cd exercicio01-maisparati</code></pre>
 </li>
 <li>Execute o arquivo desejado com o Node.js:
 <pre><code>node &lt;nome_do_arquivo&gt;.js</code></pre>
